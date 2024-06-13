@@ -1,2 +1,6 @@
-package org.rasanga.truproxyapi.entity;public enum CompanyStatus {
+package org.rasanga.truproxyapi.entity;
+
+public enum CompanyStatus {
+    ACTIVE,
+    INACTIVE;
 }
